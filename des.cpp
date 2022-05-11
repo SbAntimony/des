@@ -289,7 +289,7 @@ string XOR(string a, string b)
 
 string sboxtable(int row, int col, int i)
 {
-    string subbittext;
+    string subbittext="";
     int value;
 
     switch (i)
