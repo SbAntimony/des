@@ -330,7 +330,7 @@ string sboxtable(int row, int col, int i)
 
         break;
     }
-    for (int i = 0; i < 4; ++i)
+    for (int x = 0; x < 4; ++x)
     {
         if (value % 2 == 0)
         {
